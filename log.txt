@@ -1,0 +1,184 @@
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>322247</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=124DC234FA40FD914CF07608B2544C53
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>913987</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=2B7935387A96A8F32E81D786EA49A373
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>394142</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=C5695E0A2041BF6B89409DA9FAC40058
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>545948</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=25F92F9FE5478B7C4BB47983F83BA24F
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>956481</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=D660FFDD9344B4794092A5C5F4AEE2AA
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>827603</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=F0C2DD867E6C8202186E64B35AC0DEA5
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>718194</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=E289B37B33F6C47B7407D682CE9C1A7C
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>464861</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=D83625AAADF2AF57002E3049AEAE4F79
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>261391</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=CAEBC1021EEA2A27CE4DA33A00918D0A
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>141670</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=726C3F548D9B2030E967CC466592E218
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>044750</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=218176050AC00F24CAABBD6DDF5DE40E
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>750029</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=31C72DFEFCCB3049A7D68CA8C7AE5566
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>056545</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2016-06-03/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=99BCB44129A335BCE5B3E71A059FDC08
+response body = <html><head><title>Apache Tomcat/6.0.37 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 404 - </h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u></u></p><p><b>description</b> <u>The requested resource is not available.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.37</h3></body></html>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>007030</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=43FC2B1FEBC53DCDBE4A106617B1ED47
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160603190007</dateCreated><smsMessageSid>b4d94ada84544bd4a3bd8905f8627309</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>058178</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=4DBA6949871F580B31E3FA07C208DF94
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160038</statusCode><statusMsg>短信验证码发送过频繁</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>861271</data><data>5</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=7C983519C3650BE46D0A0DF7AA546245
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160603221434</dateCreated><smsMessageSid>05c679d02b8744a1a0d9c19a0bb3308b</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>339041</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=B94299E8EC600FB22A8D11C97BC1E456
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160609135222</dateCreated><smsMessageSid>d6ef53bbc8034b8b9578e762c5ce2d4e</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>742179</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=3D8E387606E390CD11D71A7760FB598B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160609135624</dateCreated><smsMessageSid>56f3bc9e12ee488d87e710922d172694</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>480959</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=F1154509228293DA842FA697EDDC9DD8
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>160038</statusCode><statusMsg>短信验证码发送过频繁</statusMsg></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>696889</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=2B6AA9D1891BD3FBC758C429AC7B96DF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160609135818</dateCreated><smsMessageSid>1122fa03b36b46c39c3186b1e2ee6e2e</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>917861</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=AD57C9130C593FCE0B39782C64D97053
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160611114903</dateCreated><smsMessageSid>04f66834c9f345088a806ffeefb13b97</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>647226</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=01CF6FCC4B78DE4D547B2CB9511AF39E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160611115057</dateCreated><smsMessageSid>102bef5941164c0691300d3511b9c3db</smsMessageSid></TemplateSMS></Response>
+request body = <TemplateSMS>
+                    <to>18518150393</to>
+                    <appId>8a216da8550b8ac00155158d43fa0f8a</appId>
+                    <templateId>1</templateId>
+                    <datas><data>725916</data><data>60</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da8550b8ac00155158d43970f84/SMS/TemplateSMS?sig=D0D59081A017F3B9512F6F780904D094
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>000000</statusCode><TemplateSMS><dateCreated>20160611120157</dateCreated><smsMessageSid>8a5e779808ac4e30bea54710442f4278</smsMessageSid></TemplateSMS></Response>
