@@ -32,6 +32,8 @@ Route::group(['prefix'=>'service'],function(){
     Route::get('validate_email','Service\ValidateController@validateEmail');
 
     Route::get('category/parent_id/{parent_id}','Service\BookController@getCategoryByParentId');
+
+    Route::get('cart/add/{product_id}','Service\CartController@addCart');
 });
 
 //登录路由
