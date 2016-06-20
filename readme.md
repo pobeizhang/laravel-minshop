@@ -1,1 +1,1 @@
-# laravel-minshop(18)
+# laravel-minshop(项目雏形)
