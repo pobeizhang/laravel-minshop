@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Member extends Model
 {
-    protected $table='member';
-    protected $primarykey='id';
+    public $table='member';
+    public $primarykey='id';
 }

@@ -1,7 +1,7 @@
 <?php
 namespace App\Http\Controllers\View;
 use App\Http\Controllers\Controller;
-
+use Illuminate\Http\Request;
 /**
  * Created by PhpStorm.
  * User: admin
@@ -11,9 +11,10 @@ use App\Http\Controllers\Controller;
 class MemberController extends Controller
 {
     //登录
-    public function toLogin()
+    public function toLogin(Request $request)
     {
-        return view('/login');
+        $return_url=$request->input('return_url','');
+        return view('login')->with('return_url',urldecode($return_url));
     }
     //注册
     public function toRegister()

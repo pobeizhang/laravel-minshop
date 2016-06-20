@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Entity\Product;
 use App\Entity\Pdt_content;
 use App\Entity\Pdt_images;
+use App\Entity\Cart_item;
 use Log;
 /**
  * Created by PhpStorm.
@@ -37,13 +38,27 @@ class BookController extends Controller
 
         $bk_cart=$request->cookie('bk_cart');
         $bk_cart_arr=($bk_cart!=null ? explode(',', $bk_cart) : array());
-        
+
         $count=0;
-        foreach ($bk_cart_arr as $key => $value) {
-            $index=strpos($value, ':');
-            if(substr($value, 0,$index) == $product_id){
-                $count=(int)substr($value, $index+1);
-                break;
+
+        $member=$request->session()->get('member','');
+        //已登录状态
+        if($member != ''){
+            $cart_items=Cart_item::where('member_id',$member->id)->get();
+            foreach ($cart_items as  $cart_item) {
+                if($product_id == $cart_item->product_id){
+                    $count=$cart_item->count;
+                    break;
+                }
+            }
+            //未登录状态下
+        }else{
+            foreach ($bk_cart_arr as $key => $value) {
+                $index=strpos($value, ':');
+                if(substr($value, 0,$index) == $product_id){
+                    $count=(int)substr($value, $index+1);
+                    break;
+                }
             }
         }
 
